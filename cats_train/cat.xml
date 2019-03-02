@@ -1,0 +1,344 @@
+<?xml version='1.0' encoding='ISO-8859-1'?>
+<?xml-stylesheet type='text/xsl' href='image_metadata_stylesheet.xsl'?>
+<dataset>
+<name>imglab dataset</name>
+<comment>Created by imglab tool.</comment>
+<images>
+  <image file='1.jpg'>
+    <box top='66' left='291' width='428' height='471'>
+      <label>catface</label>
+    </box>
+  </image>
+  <image file='10.jpg'>
+    <box top='4' left='334' width='904' height='853'>
+      <label>catface</label>
+    </box>
+  </image>
+  <image file='11.jpg'>
+    <box top='68' left='144' width='285' height='254'>
+      <label>catface</label>
+    </box>
+  </image>
+  <image file='12.jpg'>
+    <box top='5' left='65' width='81' height='81'>
+      <label>catface</label>
+    </box>
+    <box top='7' left='168' width='120' height='119'>
+      <label>catface</label>
+    </box>
+  </image>
+  <image file='13.jpg'>
+    <box top='54' left='228' width='327' height='364'>
+      <label>catface</label>
+    </box>
+  </image>
+  <image file='14.jpg'>
+    <box top='13' left='236' width='647' height='634'>
+      <label>catface</label>
+    </box>
+  </image>
+  <image file='15.jpg'>
+    <box top='210' left='996' width='357' height='331'>
+      <label>catface</label>
+    </box>
+  </image>
+  <image file='16.jpg'>
+    <box top='71' left='467' width='280' height='277'>
+      <label>catface</label>
+    </box>
+  </image>
+  <image file='17.jpg'>
+    <box top='204' left='464' width='603' height='472'>
+      <label>catface</label>
+    </box>
+  </image>
+  <image file='18.jpg'>
+    <box top='0' left='259' width='349' height='296'>
+      <label>catface</label>
+    </box>
+  </image>
+  <image file='19.jpg'>
+    <box top='29' left='512' width='234' height='249'>
+      <label>catface</label>
+    </box>
+  </image>
+  <image file='2.jpg'>
+    <box top='567' left='129' width='283' height='274'>
+      <label>catface</label>
+    </box>
+    <box top='437' left='456' width='315' height='267'>
+      <label>catface</label>
+    </box>
+  </image>
+  <image file='20.jpg'>
+    <box top='2' left='618' width='857' height='682'>
+      <label>catface</label>
+    </box>
+  </image>
+  <image file='21.jpg'>
+    <box top='35' left='145' width='387' height='327'>
+      <label>catface</label>
+    </box>
+  </image>
+  <image file='22.jpg'>
+    <box top='11' left='843' width='508' height='426'>
+      <label>catface</label>
+    </box>
+  </image>
+  <image file='23.jpg'>
+    <box top='28' left='503' width='197' height='184'>
+      <label>catface</label>
+    </box>
+  </image>
+  <image file='24.jpg'>
+    <box top='153' left='170' width='123' height='167'>
+      <label>catface</label>
+    </box>
+  </image>
+  <image file='25.jpg'>
+    <box top='108' left='88' width='328' height='296'>
+      <label>catface</label>
+    </box>
+  </image>
+  <image file='26.jpg'>
+    <box top='10' left='162' width='458' height='401'>
+      <label>catface</label>
+    </box>
+  </image>
+  <image file='27.jpg'>
+    <box top='80' left='80' width='307' height='244'>
+      <label>catface</label>
+    </box>
+  </image>
+  <image file='28.jpg'>
+    <box top='11' left='124' width='190' height='210'>
+      <label>catface</label>
+    </box>
+  </image>
+  <image file='29.jpg'>
+    <box top='49' left='173' width='341' height='333'>
+      <label>catface</label>
+    </box>
+  </image>
+  <image file='3.jpg'>
+    <box top='177' left='222' width='297' height='307'>
+      <label>catface</label>
+    </box>
+  </image>
+  <image file='30.jpg'>
+    <box top='137' left='403' width='192' height='221'>
+      <label>catface</label>
+    </box>
+  </image>
+  <image file='31.jpg'>
+    <box top='36' left='222' width='67' height='67'>
+      <label>catface</label>
+    </box>
+  </image>
+  <image file='32.jpg'>
+    <box top='25' left='166' width='178' height='165'>
+      <label>catface</label>
+    </box>
+  </image>
+  <image file='33.jpg'>
+    <box top='52' left='518' width='323' height='349'>
+      <label>catface</label>
+    </box>
+  </image>
+  <image file='34.jpg'>
+    <box top='24' left='168' width='97' height='95'>
+      <label>catface</label>
+    </box>
+  </image>
+  <image file='35.jpg'>
+    <box top='23' left='234' width='313' height='339'>
+      <label>catface</label>
+    </box>
+  </image>
+  <image file='36.jpg'>
+    <box top='11' left='33' width='170' height='174'>
+      <label>catface</label>
+    </box>
+    <box top='27' left='202' width='133' height='171'>
+      <label>catface</label>
+    </box>
+    <box top='36' left='331' width='185' height='183'>
+      <label>catface</label>
+    </box>
+  </image>
+  <image file='37.jpg'>
+    <box top='78' left='246' width='213' height='198'>
+      <label>catface</label>
+    </box>
+  </image>
+  <image file='38.jpg'>
+    <box top='16' left='30' width='171' height='181'>
+      <label>catface</label>
+    </box>
+  </image>
+  <image file='39.jpg'>
+    <box top='19' left='8' width='158' height='144'>
+      <label>catface</label>
+    </box>
+  </image>
+  <image file='4.jpg'>
+    <box top='11' left='59' width='117' height='123'>
+      <label>catface</label>
+    </box>
+  </image>
+  <image file='40.jpg'>
+    <box top='16' left='15' width='132' height='117'>
+      <label>catface</label>
+    </box>
+  </image>
+  <image file='41.jpg'>
+    <box top='11' left='352' width='312' height='309'>
+      <label>catface</label>
+    </box>
+  </image>
+  <image file='42.jpg'>
+    <box top='9' left='7' width='196' height='197'>
+      <label>catface</label>
+    </box>
+  </image>
+  <image file='43.jpg'>
+    <box top='75' left='272' width='367' height='352'>
+      <label>catface</label>
+    </box>
+  </image>
+  <image file='44.jpg'>
+    <box top='61' left='241' width='363' height='355'>
+      <label>catface</label>
+    </box>
+  </image>
+  <image file='45.jpg'>
+    <box top='66' left='270' width='195' height='202'>
+      <label>catface</label>
+    </box>
+  </image>
+  <image file='46.jpg'>
+    <box top='10' left='4' width='135' height='115'>
+      <label>catface</label>
+    </box>
+    <box top='132' left='96' width='146' height='125'>
+      <label>catface</label>
+    </box>
+    <box top='14' left='224' width='138' height='151'>
+      <label>catface</label>
+    </box>
+  </image>
+  <image file='47.jpg'>
+    <box top='275' left='175' width='262' height='310'>
+      <label>catface</label>
+    </box>
+    <box top='82' left='488' width='449' height='448'>
+      <label>catface</label>
+    </box>
+  </image>
+  <image file='48.jpg'>
+    <box top='6' left='42' width='252' height='228'>
+      <label>catface</label>
+    </box>
+  </image>
+  <image file='49.jpg'>
+    <box top='57' left='8' width='98' height='121'>
+      <label>catface</label>
+    </box>
+  </image>
+  <image file='5.jpg'>
+    <box top='4' left='422' width='386' height='378'>
+      <label>catface</label>
+    </box>
+  </image>
+  <image file='50.jpg'>
+    <box top='30' left='52' width='87' height='91'>
+      <label>catface</label>
+    </box>
+    <box top='31' left='143' width='92' height='105'>
+      <label>catface</label>
+    </box>
+  </image>
+  <image file='51.jpg'>
+    <box top='0' left='26' width='158' height='162'>
+      <label>catface</label>
+    </box>
+  </image>
+  <image file='52.jpg'>
+    <box top='4' left='141' width='107' height='82'>
+      <label>catface</label>
+    </box>
+  </image>
+  <image file='53.jpg'>
+    <box top='10' left='89' width='646' height='558'>
+      <label>catface</label>
+    </box>
+  </image>
+  <image file='54.jpg'>
+    <box top='30' left='89' width='107' height='95'>
+      <label>catface</label>
+    </box>
+  </image>
+  <image file='55.jpg'>
+    <box top='6' left='24' width='89' height='78'>
+      <label>catface</label>
+    </box>
+    <box top='7' left='126' width='82' height='75'>
+      <label>catface</label>
+    </box>
+  </image>
+  <image file='56.jpg'>
+    <box top='23' left='522' width='242' height='262'>
+      <label>catface</label>
+    </box>
+  </image>
+  <image file='57.jpg'>
+    <box top='17' left='93' width='90' height='95'>
+      <label>catface</label>
+    </box>
+  </image>
+  <image file='58.jpg'>
+    <box top='40' left='316' width='216' height='229'>
+      <label>catface</label>
+    </box>
+  </image>
+  <image file='59.jpg'>
+    <box top='104' left='94' width='111' height='130'>
+      <label>catface</label>
+    </box>
+    <box top='78' left='217' width='115' height='123'>
+      <label>catface</label>
+    </box>
+    <box top='28' left='322' width='129' height='129'>
+      <label>catface</label>
+    </box>
+    <box top='100' left='469' width='158' height='153'>
+      <label>catface</label>
+    </box>
+  </image>
+  <image file='6.jpg'>
+    <box top='151' left='249' width='494' height='466'>
+      <label>catface</label>
+    </box>
+  </image>
+  <image file='60.jpg'>
+    <box top='24' left='216' width='281' height='245'>
+      <label>catface</label>
+    </box>
+  </image>
+  <image file='7.jpg'>
+    <box top='11' left='12' width='205' height='203'>
+      <label>catface</label>
+    </box>
+  </image>
+  <image file='8.jpg'>
+    <box top='49' left='313' width='930' height='952'>
+      <label>catface</label>
+    </box>
+  </image>
+  <image file='9.jpg'>
+    <box top='249' left='96' width='183' height='181'>
+      <label>catface</label>
+    </box>
+  </image>
+</images>
+</dataset>
